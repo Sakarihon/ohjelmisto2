@@ -12,3 +12,5 @@ tyyppi=vastaus['weather'][0]['description']
 
 
 print(f'Asteita on {lämpötila:.2f} astetta ja sää tila on {tyyppi}.')
+
+

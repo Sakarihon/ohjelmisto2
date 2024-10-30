@@ -43,8 +43,8 @@ autot = []
 
 
 
-autot.append(Sähköauto("ABC-15",180,"52.5l"))
-autot.append(Polttomoottoriauto("ACD-123",165,"32.3kWh"))
+autot.append(Sähköauto("ABC-15",180,"52.5kWh"))
+autot.append(Polttomoottoriauto("ACD-123",165,"32.3l"))
 
 
 
